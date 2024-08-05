@@ -1,0 +1,17 @@
+train: /content/drive/MyDrive/yoloV8/data/train
+val: /content/drive/MyDrive/yoloV8/data/val
+
+name: ['ل', 'س', 'ٹ', 'ب', 'ا']
+
+names:
+  0: ا
+  1: ب
+  2: ٹ
+  3: س
+  4: ل
+
+
+
+
+
+
